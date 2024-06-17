@@ -72,7 +72,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/ansulagrawal/zoom-clone.git
+https://github.com/DivyanshMauryaaa/Nexus-Meet/tree/master
 cd zoom-clone
 ```
 
